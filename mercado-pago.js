@@ -1,2 +1,5 @@
-const = "mercado-pago"
-console.log(m)
+const m = "mercado-pago"
+
+const d = 'devedor'
+
+console.log(m, d)
